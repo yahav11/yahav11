@@ -14,7 +14,7 @@ I love integrating **AI capabilities (OpenAI API)** into projects and I care a l
 <a href="mailto:yahavgueta91@gmail.com">
   <img src="https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="www.linkedin.com/in/יהב-גואטה-2b2290366">
+<a href="https://www.linkedin.com/in/יהב-גואטה-2b2290366/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
