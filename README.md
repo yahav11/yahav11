@@ -25,14 +25,13 @@ I love integrating **AI capabilities (OpenAI API)** into projects and I care a l
 
 ## Featured projects
 - **Smart Campus** (team project) — classroom reservations + issue reporting system (Flask, SQLite) + AI-assisted triage  
-  👉 https://github.com/yahav11/Smart-Campus  
+  👉 https://github.com/yahav11/Smart-Campus
+- **Attendance app** — A full-stack attendance tracking system with authentication, reporting, and real-time UI, built using Python, Streamlit, and PostgreSQL  
+  👉 https://github.com/yahav11/attendance--app
 - **AI Study Planner** — study planning demo using OpenAI API  
-  👉 https://github.com/yahav11/ai-study-planner  
+  👉 https://github.com/yahav11/ai-study-planner   
 - **Bubble (WIP)** — early-stage app concept / experiments  
-  👉 https://github.com/yahav11/bubble_project  
-- **Bina Project** — API-based app project (no ML/AI model)  
-  👉 https://github.com/yahav11/Binaproject
-
+  👉 https://github.com/yahav11/bubble_project 
 ---
 
 ## Design focus
