@@ -2,7 +2,7 @@
 
 # Hi, I’m Yahav 👋
 
-**Software Engineering student** · building end-to-end demos & MVPs  
+**Software Engineering student** · building end-to-end products & MVPs  
 I love integrating **AI capabilities (OpenAI API)** into projects and I care a lot about **product feel & UI**.
 
 <br/>
@@ -26,8 +26,8 @@ I love integrating **AI capabilities (OpenAI API)** into projects and I care a l
 ## Featured projects
 - **Smart Campus** (team project) — classroom reservations + issue reporting system (Flask, SQLite) + AI-assisted triage  
   👉 https://github.com/yahav11/Smart-Campus
-- **Attendance app** — A full-stack attendance tracking system with authentication, reporting, and real-time UI, built using Python, Streamlit, and PostgreSQL  
-  👉 [https://github.com/yahav11/attendance--app](https://github.com/eshigu5-backup/attendance-app)
+- **Work-Hours-Tracking-System** — A full-stack attendance tracking system with authentication, reporting, and real-time UI, built using Python, Streamlit, and PostgreSQL  
+  👉 [[https://github.com/yahav11/attendance--app](https://github.com/eshigu5-backup/attendance-app)](https://github.com/eshigu5-backup/Work--Hours--Tracking-System)
 - **AI Study Planner** — study planning demo using OpenAI API  
   👉 https://github.com/yahav11/ai-study-planner   
 - **Bubble (WIP)** — early-stage app concept / experiments  
