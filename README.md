@@ -30,8 +30,7 @@ I love integrating **AI capabilities (OpenAI API)** into projects and I care a l
   👉 https://github.com/yahav11/Work--Hours--Tracking-System
 - **AI Study Planner** — study planning demo using OpenAI API  
   👉 https://github.com/yahav11/ai-study-planner   
-- **Bubble (WIP)** — early-stage app concept / experiments  
-  👉 https://github.com/yahav11/bubble_project 
+ 
 ---
 
 ## Design focus
