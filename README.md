@@ -30,7 +30,7 @@ I love integrating **AI capabilities (OpenAI API)** into projects and I care a l
   👉 https://github.com/yahav11/Smart-Campus
 - **Work-Hours-Tracking-System** — A full-stack attendance tracking system with authentication, reporting, and real-time UI, built using Python, Streamlit, and PostgreSQL  
   👉 https://github.com/yahav11/Work--Hours--Tracking-System
-  - **Bird Aviary Management** — WinForms inventory management system for bird records, including validation, random data generation, sorting algorithms, reports, and unit tests  
+- **Bird Aviary Management** — WinForms inventory management system for bird records, including validation, random data generation, sorting algorithms, reports, and unit tests  
   👉 https://github.com/yahav11/BirdAviaryManagement
 - **AI Study Planner** — study planning demo using OpenAI API  
   👉 https://github.com/yahav11/ai-study-planner   
