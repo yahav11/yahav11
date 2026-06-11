@@ -25,7 +25,6 @@ I love integrating **AI capabilities (OpenAI API)** into projects and I care a l
 
 ## Featured projects
 - **Vet clinic** (team project)-WinForms veterinary clinic management system with SQLite database, role-based access, client/pet management, visit forms, inventory handling, and validations
-
   👉https://github.com/yahav11/VetClinic
 - **Smart Campus** (team project) — classroom reservations + issue reporting system (Flask, SQLite) + AI-assisted triage  
   👉 https://github.com/yahav11/Smart-Campus
