@@ -24,14 +24,25 @@ I love integrating **AI capabilities (OpenAI API)** into projects and I care a l
 ---
 
 ## Featured projects
-- **Vet clinic** (team project)-WinForms veterinary clinic management system with SQLite database, role-based access, client/pet management, visit forms, inventory handling, and validations
+- **Vet clinic** (team project)-WinForms veterinary clinic management system with SQLite database, role-based access, client/pet management, visit forms,
+   inventory handling, and validations
   👉https://github.com/yahav11/VetClinic
+ ![Vet clinic](screenshots/home.png)
+  <img src="screenshots/home.png" alt="Vet clinic" width="650"/>
+  
 - **Smart Campus** (team project) — classroom reservations + issue reporting system (Flask, SQLite) + AI-assisted triage  
   👉 https://github.com/yahav11/Smart-Campus
+  ![Smart campus](screenshots/loginn.png)
+  <img src="screenshots/loginn.png" alt="Smart campus" width="650"/>
+  
 - **Work-Hours-Tracking-System** — A full-stack attendance tracking system with authentication, reporting, and real-time UI, built using Python, Streamlit, and PostgreSQL  
   👉 https://github.com/yahav11/Work--Hours--Tracking-System
+  
 - **Bird Aviary Management** — WinForms inventory management system for bird records, including validation, random data generation, sorting algorithms, reports, and unit tests  
   👉 https://github.com/yahav11/BirdAviaryManagement
+  ![Bird Aviary Management](screenshots/Dashboard.png)
+  <img src="screenshots/Dashboard.png" alt="Bird Aviary Management" width="650"/>
+  
 - **AI Study Planner** — study planning demo using OpenAI API  
   👉 https://github.com/yahav11/ai-study-planner   
  
