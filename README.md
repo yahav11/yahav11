@@ -10,7 +10,7 @@ I enjoy integrating **AI capabilities** into practical projects, and I care abou
 <a href="https://github.com/yahav11">
   <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="[mailto:yahavgueta91@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=yahavgueta91@gmail.com)">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=yahavgueta91@gmail.com">
   <img src="https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/yahav-gueta-2b2290366">
