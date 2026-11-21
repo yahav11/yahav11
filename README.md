@@ -1,9 +1,15 @@
+
 <div align="center">
 
-# Hi, I’m Yahav 👋
+# Hi, I'm Yahav 👋
 
-**Software Engineering student** · building end-to-end products & MVPs  
-I enjoy integrating **AI capabilities** into practical projects, and I care about clean product flow, UX clarity, and modern UI.
+**Software Engineering Student @ SCE**  
+Building practical applications across **Web, Desktop & Backend Development**.
+
+I enjoy turning ideas into working products, with a focus on  
+**software design, testing, database integration, and intuitive UX**.
+
+Currently exploring **AI Integration & Software Security**.
 
 <br/>
 
@@ -21,26 +27,48 @@ I enjoy integrating **AI capabilities** into practical projects, and I care abou
 
 ---
 
-## Featured projects
+## Featured Projects
 
-- **Vet Clinic** *(team project)* — WinForms veterinary clinic management system with SQLite database, role-based access, client/pet management, visit forms, inventory handling, and validations  
-  👉 https://github.com/yahav11/VetClinic
+### 🎓 Smart Campus
+**Python · Flask · SQLite · Web Development**
 
-- **Smart Campus** *(team project)* — classroom reservation and issue reporting system built with Flask and SQLite, including AI-assisted triage  
-  👉 https://github.com/yahav11/Smart-Campus
+A team-developed classroom reservation and infrastructure management system featuring role-based access, issue reporting, and AI-assisted triage.
 
-- **Work Hours Tracking System** — full-stack attendance tracking system with authentication, reporting, and real-time UI, built using Python, Streamlit, and PostgreSQL  
-  👉 https://github.com/yahav11/Work--Hours--Tracking-System
+🔗 https://github.com/yahav11/Smart-Campus
 
-- **Bird Aviary Management** — WinForms inventory management system for bird records, including validation, random data generation, sorting algorithms, reports, and unit tests  
-  👉 https://github.com/yahav11/BirdAviaryManagement
+### ⏱️ Work Hours Tracking System
+**Python · Streamlit · PostgreSQL · Supabase**
 
-- **AI Study Planner** — study planning demo using OpenAI API  
-  👉 https://github.com/yahav11/ai-study-planner
+A web-based attendance tracking application featuring authentication, daily check-in/out, vacation reporting, monthly summaries, and Excel export.
+
+🔗 https://github.com/yahav11/Work--Hours--Tracking-System
+
+### 🐦 Bird Aviary Management
+**C# · .NET · WinForms · MSTest**
+
+A desktop inventory management system featuring input validation, sorting algorithms, reporting, and automated unit testing.
+
+Applied interface-based dependency injection and mock implementations to test business logic independently.
+
+🔗 https://github.com/yahav11/BirdAviaryManagement
+
+### 🐾 Veterinary Clinic Management
+**C# · WinForms · SQLite · OOP**
+
+A team-developed veterinary clinic management system featuring role-based access, client and pet management, visit records, medicine inventory, and input validation.
+
+🔗 https://github.com/yahav11/VetClinic
+
+### 🤖 AI Study Planner
+**Python · Streamlit · OpenAI API**
+
+A study planning demo exploring the integration of AI capabilities into practical productivity applications.
+
+🔗 https://github.com/yahav11/ai-study-planner
 
 ---
 
-## Project previews
+## Project Previews
 
 <table>
   <tr>
@@ -70,25 +98,34 @@ I enjoy integrating **AI capabilities** into practical projects, and I care abou
 
 ---
 
-## Design focus
+## Engineering & Design
 
-I’m engineering-driven, but I care deeply about **UX clarity**, product feel, and making projects look modern — not like a 2009 government website 😭
+I enjoy working across different parts of software development, from implementing business logic and integrating databases to designing interfaces that feel intuitive.
+
+I care about **maintainable code, thoughtful architecture, testing, and user experience**.
+
+Because functional software should also feel good to use — not like a 2009 government website 😭
 
 ---
 
-## Tech I used in projects
+## Technologies & Tools
 
 <div align="center">
+
   <img src="https://img.shields.io/badge/C%23-111111?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-111111?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/WinForms-111111?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-111111?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-111111?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-111111?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-111111?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/MSTest-111111?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI%20API-111111?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma&logoColor=white" />
+
 </div>
 
 <br/>
